@@ -19,6 +19,7 @@ public class TestC {
 			throws Exception {
 		ModelAndView mav = new ModelAndView();
 		jDqiandaoJob.qiandao();
+		System.err.println(11);
 		return null;
 	}
 }
