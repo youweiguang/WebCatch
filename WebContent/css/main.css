@@ -1,0 +1,17 @@
+@CHARSET "UTF-8";
+body{
+	font: 20px 'Microsoft Yahei','helvetica','arial';
+}
+table,table td,table th{border:1px solid #D1D1D1;border-collapse:collapse;}
+td{
+border:2px solid #cccccc;
+color: #0071BC;
+text-align: center;
+}
+input{
+	font-size: 20px;
+}
+input[type="button"]{
+	height: 50px;
+	width: 100px;
+}
